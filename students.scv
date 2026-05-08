@@ -1,1 +1,101 @@
-
+id,name,age,department,cgpa,city
+1,Ali Hassan,21,Computer Science,3.8,Lahore
+2,Sara Khan,22,Software Engineering,3.5,Karachi
+3,Ahmed Raza,20,Data Science,3.9,Islamabad
+4,Zara Malik,23,Computer Science,3.2,Lahore
+5,Bilal Ahmed,21,Networking,3.6,Peshawar
+6,Nadia Iqbal,22,Software Engineering,3.7,Karachi
+7,Usman Tariq,24,Computer Science,3.1,Lahore
+8,Ayesha Noor,20,Data Science,3.85,Islamabad
+9,Kamran Shah,22,Networking,3.4,Quetta
+10,Hira Baig,21,Computer Science,3.75,Lahore
+11,Farhan Malik,23,Artificial Intelligence,3.95,Islamabad
+12,Sana Mirza,21,Cyber Security,3.6,Karachi
+13,Hamza Qureshi,22,Computer Science,3.3,Lahore
+14,Rimsha Awan,20,Data Science,3.88,Faisalabad
+15,Talha Butt,23,Software Engineering,3.45,Multan
+16,Maham Shahid,21,Artificial Intelligence,3.72,Islamabad
+17,Asad Mehmood,24,Networking,3.55,Peshawar
+18,Iqra Hussain,20,Cyber Security,3.65,Karachi
+19,Shahzaib Ali,22,Computer Science,3.9,Lahore
+20,Amna Khalid,21,Data Science,3.78,Rawalpindi
+21,Junaid Akhtar,23,Software Engineering,3.4,Karachi
+22,Komal Rashid,20,Artificial Intelligence,3.82,Islamabad
+23,Waqas Anwar,22,Networking,3.3,Quetta
+24,Farah Zaman,21,Cyber Security,3.7,Lahore
+25,Danish Saeed,23,Computer Science,3.6,Sialkot
+26,Maryam Aslam,20,Artificial Intelligence,3.91,Islamabad
+27,Faisal Nawaz,22,Software Engineering,3.55,Lahore
+28,Sadia Perveen,21,Data Science,3.68,Karachi
+29,Rizwan Haider,23,Computer Science,3.35,Multan
+30,Huma Tariq,20,Cyber Security,3.8,Rawalpindi
+31,Nabeel Akram,22,Networking,3.45,Peshawar
+32,Zainab Raza,21,Artificial Intelligence,3.77,Islamabad
+33,Mohsin Ali,24,Computer Science,3.2,Lahore
+34,Rabia Shafiq,20,Software Engineering,3.62,Karachi
+35,Imran Yousaf,22,Data Science,3.84,Faisalabad
+36,Noor Fatima,21,Cyber Security,3.58,Islamabad
+37,Salman Ghani,23,Computer Science,3.48,Sialkot
+38,Aiman Zahra,20,Artificial Intelligence,3.93,Lahore
+39,Kashif Raza,22,Networking,3.38,Quetta
+40,Saima Bibi,21,Software Engineering,3.72,Karachi
+41,Tariq Jameel,23,Computer Science,3.15,Lahore
+42,Mehwish Aziz,20,Data Science,3.87,Islamabad
+43,Adeel Chaudhry,22,Artificial Intelligence,3.64,Rawalpindi
+44,Bushra Nisar,21,Cyber Security,3.76,Karachi
+45,Waseem Baig,24,Networking,3.42,Peshawar
+46,Shazia Kanwal,20,Computer Science,3.88,Lahore
+47,Nauman Rauf,22,Software Engineering,3.52,Multan
+48,Amber Fatima,21,Data Science,3.79,Faisalabad
+49,Zeeshan Javed,23,Artificial Intelligence,3.66,Islamabad
+50,Lubna Arif,20,Cyber Security,3.83,Karachi
+51,Hamid Sultan,22,Computer Science,3.28,Lahore
+52,Tooba Waseem,21,Software Engineering,3.61,Rawalpindi
+53,Ahsan Mehmood,23,Data Science,3.92,Islamabad
+54,Samia Rafiq,20,Artificial Intelligence,3.74,Karachi
+55,Jahangir Khan,22,Networking,3.36,Peshawar
+56,Kiran Shehzadi,21,Cyber Security,3.69,Lahore
+57,Mudassar Iqbal,24,Computer Science,3.44,Sialkot
+58,Fiza Malik,20,Software Engineering,3.81,Islamabad
+59,Shoaib Akhtar,22,Data Science,3.57,Karachi
+60,Nadia Azam,21,Artificial Intelligence,3.86,Lahore
+61,Arif Hussain,23,Networking,3.32,Quetta
+62,Sumbul Zahid,20,Cyber Security,3.71,Faisalabad
+63,Kamran Bashir,22,Computer Science,3.53,Multan
+64,Hafsa Khurram,21,Software Engineering,3.78,Islamabad
+65,Tahir Mahmood,23,Data Science,3.63,Lahore
+66,Areeba Sultan,20,Artificial Intelligence,3.89,Karachi
+67,Shahid Latif,22,Networking,3.41,Peshawar
+68,Madiha Saleem,21,Cyber Security,3.67,Rawalpindi
+69,Qasim Raza,24,Computer Science,3.19,Lahore
+70,Haleema Sadia,20,Software Engineering,3.84,Islamabad
+71,Bilal Chaudhry,22,Data Science,3.59,Karachi
+72,Rukhsar Fatima,21,Artificial Intelligence,3.94,Lahore
+73,Omer Farooq,23,Networking,3.47,Sialkot
+74,Sadaf Munir,20,Cyber Security,3.73,Islamabad
+75,Shehryar Baig,22,Computer Science,3.37,Lahore
+76,Nimra Ashraf,21,Software Engineering,3.82,Karachi
+77,Ghulam Abbas,23,Data Science,3.56,Faisalabad
+78,Tayyaba Noor,20,Artificial Intelligence,3.88,Islamabad
+79,Fahad Mirza,22,Networking,3.43,Peshawar
+80,Raheela Bano,21,Cyber Security,3.77,Lahore
+81,Asif Javed,24,Computer Science,3.24,Multan
+82,Naila Tahir,20,Software Engineering,3.65,Rawalpindi
+83,Khurram Shahzad,22,Data Science,3.91,Islamabad
+84,Samra Waheed,21,Artificial Intelligence,3.71,Karachi
+85,Fawad Hussain,23,Networking,3.39,Quetta
+86,Zara Shafique,20,Cyber Security,3.85,Lahore
+87,Haroon Rashid,22,Computer Science,3.46,Sialkot
+88,Misbah Iqbal,21,Software Engineering,3.76,Islamabad
+89,Saad Ullah,23,Data Science,3.62,Karachi
+90,Faiza Rehman,20,Artificial Intelligence,3.83,Lahore
+91,Umair Sajid,22,Networking,3.34,Peshawar
+92,Hira Manzoor,21,Cyber Security,3.79,Faisalabad
+93,Jawad Ahmed,24,Computer Science,3.17,Lahore
+94,Sehrish Naz,20,Software Engineering,3.87,Islamabad
+95,Anas Mehmood,22,Data Science,3.54,Karachi
+96,Maha Zafar,21,Artificial Intelligence,3.96,Lahore
+97,Zubair Hassan,23,Networking,3.49,Rawalpindi
+98,Ayesha Siddiqui,20,Cyber Security,3.81,Islamabad
+99,Nouman Ali,22,Computer Science,3.67,Lahore
+100,Bismah Tariq,21,Software Engineering,3.73,Karachi
