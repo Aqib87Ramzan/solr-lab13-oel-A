@@ -25,7 +25,7 @@ solr-lab13-oel-A/
 ├── app.py                  # Flask backend — connects to Solr API
 ├── students.csv            # Dataset — 100 student records
 ├── templates/
-│   └── index.html          # Frontend — search UI
+│   └── index.html          # Frontend — search UI, contains HTML + CSS + JS
 └── README.md               # Project documentation
 ```
 
